@@ -10,7 +10,7 @@ def argue(phrase)
   "#{phrase}"
 end
 
-def greeting(greetin, name)
+def greeting(greeting, name)
   "#{greeting}, #{name}"
 end
 
