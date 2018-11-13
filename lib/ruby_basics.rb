@@ -7,11 +7,11 @@ def assign_variable(value)
 end
 
 def argue(phrase)
-  puts "#{phrase}"
+  "#{phrase}"
 end
 
 def greeting(greeting, name)
-  puts "#{greeting}, #{name}"
+  "#{greeting}, #{name}"
 end
 
 def return_a_value
